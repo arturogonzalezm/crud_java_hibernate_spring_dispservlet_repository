@@ -1,9 +1,19 @@
-Specifications:
--Basic CRUD application using Spring MVC Dispatcher Servlet Mapping.
--Hibernate.
--H2 database.
--Maven
+== README
+
+Important main Tech Specs and Versions:
+
+* Spring MVS 4.0.6
+
+* Spring Data
+
+* Hibernate
+
+* Maven
+
+* H2
+
 
 Instructions:
--mvn clean install
--Setup Tomcat 7 x
+
+1.mvn clean install
+2.set up tomcat 7 x
